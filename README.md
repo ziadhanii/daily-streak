@@ -11,3 +11,4 @@ This repository is used to maintain my daily GitHub contribution streak.
 ## 📅 Log
 
 - **Day 01**: Started the streak 🚀
+- **Day 01**: Add index.html
